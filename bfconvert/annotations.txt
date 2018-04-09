@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+54af251a-ccd2-5028-a393-fc1004b5dd3e	836	case	07a2c1da-040e-44ea-9a56-751a06761894	Item in special subset	Notification	2010-11-01T00:00:00	Rescinded	Portioning study
+691aefd4-5d82-5596-8846-1ae856171bd5	836	case	07a2c1da-040e-44ea-9a56-751a06761894	Item in special subset	Notification	2010-11-01T00:00:00	Rescinded	This annotation was rescinded by sunq3 on 7/16/14 1:25 PM
